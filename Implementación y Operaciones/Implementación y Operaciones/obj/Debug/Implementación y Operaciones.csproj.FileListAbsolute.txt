@@ -1,0 +1,7 @@
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación y Operaciones\Implementación y Operaciones\bin\Debug\Implementación y Operaciones.exe.config
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación y Operaciones\Implementación y Operaciones\bin\Debug\Implementación y Operaciones.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación y Operaciones\Implementación y Operaciones\bin\Debug\Implementación y Operaciones.pdb
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación y Operaciones\Implementación y Operaciones\obj\Debug\Implementación y Operaciones.csproj.AssemblyReference.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación y Operaciones\Implementación y Operaciones\obj\Debug\Implementación y Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación y Operaciones\Implementación y Operaciones\obj\Debug\Implementación y Operaciones.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación y Operaciones\Implementación y Operaciones\obj\Debug\Implementación y Operaciones.pdb
